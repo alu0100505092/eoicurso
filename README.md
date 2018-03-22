@@ -1,4 +1,4 @@
 # eoicurso
 
 Curso full stack
-REAME de rama tutu
+README de prueba 
